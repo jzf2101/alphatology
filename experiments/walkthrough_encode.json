@@ -1,0 +1,12 @@
+{
+    "script": "walkthrough_encode",
+    "use_gpu": true,
+    "jobs_per_gpu": 1,
+    "settings": {
+        "seed": [
+            1
+        ],
+        "concept": [
+            "trapezoid"    ]
+    }
+}

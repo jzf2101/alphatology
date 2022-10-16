@@ -1,0 +1,24 @@
+{
+    "script": "generate",
+    "use_gpu": true,
+    "jobs_per_gpu": 1,
+    "settings": {
+        "seed": [
+            42
+        ],
+        "concept": [
+            "bridge",
+            "edge",
+            "crescent",
+            "span",
+            "trapezoid",
+            "bottleneck",
+            "escape",
+            "captured",
+            "dead"
+        ],
+        "templates_per_concept": [
+            2500
+        ]
+    }
+}

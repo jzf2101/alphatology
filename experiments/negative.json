@@ -1,0 +1,22 @@
+{
+    "script": "negative",
+    "use_gpu": true,
+    "jobs_per_gpu": 1,
+    "settings": {
+        "seed": [
+            2, 5, 14, 42, 132
+        ],
+        "concept": [
+            "captured", "dead"
+        ],
+        "run": [
+            "2021-02-20 22-35-41 grubby-wrench",
+            "2021-02-20 21-33-42 recent-annex",
+            "2021-02-20 22-18-43 baggy-cans",
+            "2021-02-20 22-55-43 vital-bubble"
+        ],
+        "templates_per_concept": [
+            100
+        ]
+    }
+}
