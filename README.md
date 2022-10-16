@@ -1,5 +1,5 @@
 # alphatology
-alphazero bertology
+Code for Evaluation Beyond Task Performance: Analyzing Concepts in AlphaZero in Hex (NeurIPS 2022)
 
 ### setup jobs (assumes slurm)
 ```bash
